@@ -1,1 +1,3 @@
-# مشروع Termux الأول 🚀
+# Termux Project
+
+Open-source utilities for Termux.
